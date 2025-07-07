@@ -24,6 +24,8 @@ RetroC2 is Web Based - RAT / Stealer,  Written In Golang/C++
 <tr>
 <td width="50%">
 
+![ch](https://github.com/user-attachments/assets/571e56d2-62c3-48ba-a7bb-6bed17a3cd29)
+![ed](https://github.com/user-attachments/assets/d4bfa289-da4f-4237-b8d9-999520f4bb9d)
 
 ## 🔓 **BROWSER SUPPORT**
 
