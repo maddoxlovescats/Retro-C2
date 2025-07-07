@@ -101,3 +101,10 @@ Uptime 99.9%
 | **Passwords/Cookies Recovery** | ✅ `ONLINE` | Browser credential extraction |
 
 </div>
+
+
+## ⚠️ **DISCLAIMER**
+
+```diff
+! Educational purposes only. Test on your own shit.
+! Don't be stupid. Getting caught = your problem, not mine.
