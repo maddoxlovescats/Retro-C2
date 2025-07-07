@@ -6,7 +6,7 @@ RetroC2 is Web Based - RAT / Stealer,  Written In Golang/C++
 
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge&labelColor=000000">
-<img src="https://img.shields.io/badge/VERSION-2025-00ff00?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/VERSION-2026-00ff00?style=for-the-badge&labelColor=000000">
 <img src="https://img.shields.io/badge/CLIENTS-CONNECTED-00ff00?style=for-the-badge&labelColor=000000">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=ADVANCED+COMMAND+%26+CONTROL+FRAMEWORK;RETRO+TERMINAL+INTERFACE;FULL+SYSTEM+DOMINATION" alt="Typing SVG" />
