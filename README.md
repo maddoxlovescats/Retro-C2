@@ -1,6 +1,9 @@
 # Retro-C2
 RetroC2 is Web Based - RAT / Stealer,  Written In Golang/C++
 
+![404711829-ec286fc9-fb2b-4650-9058-81fe66bef9ab](https://github.com/user-attachments/assets/5286811b-baa6-45ca-9fc3-9cb2f8edd22b)
+
+
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge&labelColor=000000">
 <img src="https://img.shields.io/badge/VERSION-2025-00ff00?style=for-the-badge&labelColor=000000">
