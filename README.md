@@ -24,6 +24,15 @@ RetroC2 is Web Based - RAT / Stealer,  Written In Golang/C++
 <tr>
 <td width="50%">
 
+
+## 🔓 **BROWSER SUPPORT**
+
+```diff
++ Supports latest Chrome/Edge (v139+)
++ Decrypts passwords & cookies from newest versions
++ Works with updated Chrome/Edge
++ Bypasses Chrome's new security features
+
 ### 🖥️ **SYSTEM CONTROL**
 ```diff
 + CMD Terminal
