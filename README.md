@@ -77,6 +77,7 @@ $ cd retro-c2
 
 # Install dependencies
 $ golang
+$ github.com/gorilla/websocket
 
 # Start the C2 server
 $ golang run server.go
